@@ -28,7 +28,7 @@
     </ItemGroup>
 
     <ItemGroup>
-        <ProjectReference Include="..\..\MemCache.Sample\MemCache.Sample.csproj"/>
+        <ProjectReference Include="..\..\src\MemCache.Sample\MemCache.Sample.csproj"/>
     </ItemGroup>
 
     <ItemGroup>

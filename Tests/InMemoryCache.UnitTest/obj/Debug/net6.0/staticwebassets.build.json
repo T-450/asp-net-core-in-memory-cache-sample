@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "g0AMsAWDcy1u/12SpJk2tL3th3dbSx1NB4OdHdKGBOI=",
+  "Hash": "X71DeXQ3/9xiIb8wj1OXgnp21JV/VfyA5KOpcdVh9zM=",
   "Source": "InMemoryCache.UnitTest",
   "BasePath": "_content/InMemoryCache.UnitTest",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\edward\\source\\personal-projects\\asp-net-core-caching-sample\\AspNetCore.Caching.Strategies\\MemCache.Sample\\MemCache.Sample.csproj",
+      "Identity": "C:\\Users\\edward\\source\\personal-projects\\asp-net-core-caching-sample\\AspNetCore.Caching.Strategies\\src\\MemCache.Sample\\MemCache.Sample.csproj",
       "Version": 2,
       "Source": "MemCache.Sample",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
