@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TC2kHoC9FwXUOugbv8M7hmJwqwIpCiCFsSCFp3DUlVA=",
+  "Source": "MemCache.Sample",
+  "BasePath": "_content/MemCache.Sample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

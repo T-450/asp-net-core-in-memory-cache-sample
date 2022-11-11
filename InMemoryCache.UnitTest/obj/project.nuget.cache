@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "26vOKF34a5KQb+lIwwZ9uc6oXL0FxANZ6Z156vrwGWQ3reYPT3KKN13t7UYQUQJVPavPVJhWXY6Rp6yMWoxXLw==",
+  "dgSpecHash": "NwICZHYe2RlqQJiMxCNC9+NFt902iA1Id4t1iDjs2d6TQnPmqKYTOrIbx5ZaTL+94qTfLdX3+Gq7Djm7Jx0X+Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\edward\\source\\personal-projects\\asp-net-core-caching-sample\\AspNetCore.Caching.Strategies\\InMemoryCache.UnitTest\\InMemoryCache.UnitTest.csproj",
   "expectedPackageFiles": [

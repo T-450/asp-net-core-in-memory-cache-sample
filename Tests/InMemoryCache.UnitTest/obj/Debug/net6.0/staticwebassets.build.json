@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "g0AMsAWDcy1u/12SpJk2tL3th3dbSx1NB4OdHdKGBOI=",
+  "Source": "InMemoryCache.UnitTest",
+  "BasePath": "_content/InMemoryCache.UnitTest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\edward\\source\\personal-projects\\asp-net-core-caching-sample\\AspNetCore.Caching.Strategies\\MemCache.Sample\\MemCache.Sample.csproj",
+      "Version": 2,
+      "Source": "MemCache.Sample",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
